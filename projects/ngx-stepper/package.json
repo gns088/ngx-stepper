@@ -1,0 +1,16 @@
+{
+  "name": "@gns088/ngx-stepper",
+  "version": "0.0.1",
+  "author": {
+    "name": "Ganeshram Kumhar",
+    "email": "kumarganesh088@gmail.com",
+    "url": "https://www.linkedin.com/in/gns088"
+  },
+  "peerDependencies": {
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}

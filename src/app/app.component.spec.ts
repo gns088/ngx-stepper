@@ -15,7 +15,7 @@ describe('AppComponent', () => {
   });
 
   it(`should have as title 'ngx-stepper-library'`, () => {
-    const fixture = TestBed.createComponent(AppComponent);
+    const fixture = TestBed.createComponent();
     const app = fixture.componentInstance;
     expect(app.title).toEqual('ngx-stepper-library');
   });

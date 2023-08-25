@@ -10,6 +10,7 @@ describe('NgxStepperComponent', () => {
     await TestBed.configureTestingModule({
 
 
+      
             declarations: [NgxStepperComponent]
     }).compileComponents();
 

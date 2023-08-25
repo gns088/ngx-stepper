@@ -8,7 +8,9 @@ describe('NgxStepperComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [NgxStepperComponent],
+
+
+            declarations: [NgxStepperComponent]
     }).compileComponents();
 
     fixture = TestBed.createComponent(NgxStepperComponent);

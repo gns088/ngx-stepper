@@ -10,11 +10,11 @@ describe('NgxStepperComponent', () => {
     await TestBed.configureTestingModule({
 
 
-      
-            declarations: [NgxStepperComponent]
+
+              declarations: [NgxStepperComponent],
     }).compileComponents();
 
-    fixture = TestBed.createComponent(NgxStepperComponent);
+    fixture = TestBed.createComponent();
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
